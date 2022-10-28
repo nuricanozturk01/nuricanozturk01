@@ -3,7 +3,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Java and Java technologies
-- 🌱 I’m currently learning Java, Spring Boot, Spring Framework, Operating System Course and Design Patterns.
+- 🌱 I’m currently learning Java and Java Technologies, Operating System Course and Design Patterns.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
