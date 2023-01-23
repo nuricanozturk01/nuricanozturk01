@@ -40,7 +40,7 @@
 
 
 ### 💬 Contact Me
-[![Linkedln](https://img.shields.io/badge/Nuri Can ÖZTÜRK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuricanozturk/)
+[![Linkedln](https://img.shields.io/badge/-nuricanozturk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuricanozturk/)
 [![Gmail](https://img.shields.io/badge/-canozturk309@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:canozturk309@gmail.com)
 
 -----
