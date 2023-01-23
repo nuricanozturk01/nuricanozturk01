@@ -3,13 +3,13 @@
 
 ---
 
-![followers](https://img.shields.io/github/followers/yuebaix?style=social)
-![stars](https://img.shields.io/github/stars/yuebaix?style=social)
+![followers](https://img.shields.io/github/followers/nuricanozturk01?style=social)
+![stars](https://img.shields.io/github/stars/nuricanozturk01?style=social)
 
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{nuricanozturk01}/count.svg" alt="nuricanozturk01 :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="nuricanozturk01" />
 
 - 🔭 I’m currently working on [SpringBoot](https://spring.io/projects/spring-boot)
 - 🌱 I’m currently learning **Spring Framework and Mobile Application Development**
