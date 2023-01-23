@@ -9,7 +9,6 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{nuricanozturk01}/count.svg" alt="nuricanozturk01 :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="nuricanozturk01" />
 
 - 🔭 I’m currently working on [SpringBoot](https://spring.io/projects/spring-boot)
 - 🌱 I’m currently learning **Spring Framework and Mobile Application Development**
@@ -42,7 +41,7 @@
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:canozturk309@gmail.com)
+[![Gmail](https://img.shields.io/badge/-canozturk309@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:canozturk309@gmail.com)
 
 -----
 
