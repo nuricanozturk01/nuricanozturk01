@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuri Can ÖZTÜRK</h1>
+<h1 align="center">My name is Nuri Can ÖZTÜRK</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 ---
