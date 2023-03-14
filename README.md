@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Spring Framework and Mobile Application Development**
 - 📝 I regularly write articles on [medium](http://medium.com/@qwerty01/)
 - 📫 How to reach me **canozturk309@gmail.com**
-- ⚡ Fun fact **I'm familiar with several code languages.ie Java, C/C++, Python**
+- ⚡ Fun fact **I'm familiar with several code languages.ie Java, Kotlin, C/C++, Python**
 
 ### 🛠 Tech Stack
 
