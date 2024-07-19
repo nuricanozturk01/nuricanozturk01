@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me<br><br>I am a software engineering student specializing particularly in backend development. In additional, I am interested in Android development.</h3>
+<h3 align="left">👩‍💻 About Me<br><br>I am a Junior Software Developer specializing particularly in backend development. In additional, I am interested in Android development.</h3>
 
 ###
 
