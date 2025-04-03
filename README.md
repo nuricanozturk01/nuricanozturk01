@@ -72,6 +72,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">  
+    <img src="https://api.setupshowroom.com/public/card/user/01JPQZ7BK9K2G3ZB6FVXF4K78G/sys-card?type=gaming"/>
+  </a>
+</div>
+
 ###
 
 <div align="center">
