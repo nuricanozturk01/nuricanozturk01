@@ -66,17 +66,18 @@
 </div>
 
 ###
-<div align="center">
+
+### **Setup Showroom**
+- Want to see more amazing setups? Check out [setupshowroom.com](https://setupshowroom.com) for inspiration and ideas!
+<p align="center">
   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=development"/>
+    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=development" alt="Setup Showroom Preview"/>
   </a>
-</div>
-
-<div align="center">
-
-</div>
+</p>
 
 ###
+
+### **Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nuricanozturk01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
