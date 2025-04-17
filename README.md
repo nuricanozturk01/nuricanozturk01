@@ -68,7 +68,8 @@
 ###
 
 ### **Setup Showroom**
-- Want to see more amazing setups? Check out [setupshowroom.com](https://setupshowroom.com) for inspiration and ideas!
+- Want to see more amazing setups? Check out [setupshowroom.com](https://setupshowroom.com) for inspiration and ideas! OR
+- [Other Cards](setupshowroom/setup-cards.md)
 <p align="center">
   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
     <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=development"/>
