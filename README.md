@@ -63,7 +63,7 @@ Check out my latest platform: [**setupshowroom.com**](https://setupshowroom.com)
 
 <p align="center">
   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=development" alt="Setup Showroom Card" />
+    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=gaming"/>
   </a>
 </p>
 
