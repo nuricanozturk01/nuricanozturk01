@@ -57,6 +57,8 @@ I'm currently learning **Rust** and exploring AI integrations, while also refini
 
 ## 🌟 My Latest Project
 
+### Setupshowroom
+
 Check out my latest platform: [**setupshowroom.com**](https://setupshowroom.com) 
 
 – A showcase hub for gaming, productivity, and creator setups. Tag products, leave comments, and get inspired!
@@ -67,13 +69,21 @@ Check out my latest platform: [**setupshowroom.com**](https://setupshowroom.com)
   </a>
 </p>
 
+### Nucleus Framework
+
+Nucleus is a lightweight _Java Dependency Injection framework_ that supports **constructor and field injection**, inspired by Spring and designed to be simple and minimal.
+
+Nucleus Framework: [**nucleus-framework**](https://github.com/nuricanozturk01/nucleus-framework)
+
+Example Application: [**example-application**](https://github.com/nuricanozturk01/nucleus-framework-example)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuricanozturk01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuricanozturk01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuricanozturk01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuricanozturk01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
