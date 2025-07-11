@@ -30,7 +30,7 @@ I'm currently learning **Rust** and exploring AI integrations, while also refini
 - Personal SaaS projects like [setupshowroom.com](https://setupshowroom.com)
 
 ---
-
+<!--
 ## 🛠 Languages & Tools
 
 <div align="left">
@@ -52,7 +52,7 @@ I'm currently learning **Rust** and exploring AI integrations, while also refini
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
 </div>
-
+-->
 ---
 
 ## 🌟 My Latest Project
