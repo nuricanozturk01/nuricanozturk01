@@ -6,16 +6,6 @@
 
 I'm a **Junior Software Developer** with a strong passion for backend technologies, cloud infrastructure, and modern software architecture. I have solid experience with **Java**, **Spring Boot ecosystem**, and **Go**, and I'm actively building scalable systems and clean APIs while expanding my expertise in production-ready development.
 
-### Core Skills
-- **Backend Development**: Java development with Spring Framework, Spring Data JPA, and microservices
-- **Database Technologies**: PostgreSQL, MySQL, Redis caching, and MongoDB document stores
-- **Cloud & DevOps**: Kubernetes, Docker containerization, AWS services, and CI/CD automation
-- **Message Systems**: Apache Kafka event streaming and RabbitMQ message processing
-- **Frontend Technologies**: Angular applications with TypeScript and Tailwind CSS
-
-### Professional Goal
-My long-term aspiration is to become a **Software Architect**, designing and leading the development of complex, scalable systems. Currently, I'm building my expertise through hands-on SaaS development, focusing on microservices architecture, distributed systems, and enterprise-grade solutions. I'm passionate about creating robust, maintainable systems that solve real-world problems while following architectural best practices and design patterns.
-
 ---
 
 ## 🛠️ Technology Stack
@@ -43,13 +33,7 @@ My long-term aspiration is to become a **Software Architect**, designing and lea
 
 ---
 
-## 🌟 Featured Project
-
-### Setupshowroom
-
-Check out my latest platform: [**setupshowroom.com**](https://setupshowroom.com) 
-
-A showcase hub for gaming, productivity, and creator setups. Tag products, leave comments, and get inspired by the community!
+## 🌟 My Setup
 
 <p align="center">
   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
@@ -83,5 +67,5 @@ Feel free to reach out for collaboration, project discussions, or technical conv
 If you find my projects helpful or want to support my open-source contributions:
 
 <a href="https://www.buymeacoffee.com/canozturk3U" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" >
 </a>
