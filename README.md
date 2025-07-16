@@ -13,108 +13,32 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 - **Message Systems**: Apache Kafka event streaming and RabbitMQ message processing
 - **Frontend Technologies**: Angular applications with TypeScript and Tailwind CSS
 
-### Current Focus
-I'm actively expanding my technical arsenal with **Rust** for high-performance system components and exploring **AI/ML integrations** for intelligent SaaS features. My development approach emphasizes clean architecture, comprehensive testing, and developer experience optimization.
-
 ### Professional Goal
 My long-term aspiration is to become a **Software Architect**, designing and leading the development of complex, scalable systems. Currently, I'm building my expertise through hands-on SaaS development, focusing on microservices architecture, distributed systems, and enterprise-grade solutions. I'm passionate about creating robust, maintainable systems that solve real-world problems while following architectural best practices and design patterns.
-
-### Development Approach
-I focus on writing clean, maintainable code and building production-ready solutions. I believe in continuous learning and applying best practices to create software that scales and provides long-term value.
 
 ---
 
 ## 🛠️ Technology Stack
 
-### 🚀 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-</div>
-
-### 🗄️ Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-</div>
-
-### ⚙️ Backend Frameworks & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" />
-</div>
-
-### 🎨 Frontend Technologies
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" />
-</div>
-
-### 🔧 Build Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" />
-</div>
-
-### ☁️ DevOps & Cloud
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-</div>
-
-### 📊 Monitoring & Analytics
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo" />
-</div>
-
-### 🔄 Version Control & CI/CD
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-</div>
-
-### 🛠️ Development Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  <strong>Languages & Backend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=java,rust,go,kotlin,spring,hibernate,kafka,rabbitmq" height="35" alt="languages backend" />
+  
+  <br/>
+  <strong>Databases & Storage:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" height="35" alt="databases" />
+  
+  <br/>
+  <strong>Frontend & Mobile:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=angular,svelte,androidstudio" height="35" alt="frontend mobile" />
+  
+  <br/>
+  <strong>DevOps & Cloud:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,vercel,linux" height="35" alt="devops cloud" />
+  
+  <br/>
+  <strong>Tools & Monitoring:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,githubactions,idea,vscode,postman,grafana,prometheus" height="35" alt="tools monitoring" />
 </div>
 
 ---
