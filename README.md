@@ -33,16 +33,6 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 
 ---
 
-## 🌟 My Setup
-
-<p align="center">
-  <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=development"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
