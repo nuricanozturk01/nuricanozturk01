@@ -38,16 +38,6 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 
 ---
 
-## 📬 Let's Connect
-
-Feel free to reach out for collaboration, project discussions, or technical conversations about backend architecture, microservices, or emerging technologies!
-
-- 📧 **Email**: [canozturk309@gmail.com](mailto:canozturk309@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/nuricanozturk](https://linkedin.com/in/nuricanozturk)
-- ✍️ **Medium**: [medium.com/@nuricanozturk01](https://medium.com/@nuricanozturk01)
-
----
-
 ## ☕ Support My Work
 
 If you find my projects helpful or want to support my open-source contributions:
