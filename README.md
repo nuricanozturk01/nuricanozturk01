@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="250" src="https://avatars.githubusercontent.com/u/62218588?v=4" alt="Nurican Ozturk Avatar" />
-</div>
-
 ## 👨‍💻 About Me
 
 I'm a **Junior Software Developer** with a strong passion for backend technologies, cloud infrastructure, and modern software architecture. I have solid experience with **Java**, **Spring Boot ecosystem**, and **Go**, and I'm actively building scalable systems and clean APIs while expanding my expertise in production-ready development.
