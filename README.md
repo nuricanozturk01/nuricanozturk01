@@ -25,6 +25,14 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
   <br/>
   <strong>Tools & Monitoring:</strong><br/>
   <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,githubactions,idea,vscode,postman,grafana,prometheus" height="35" alt="tools monitoring" />
+  <a href="https://repsy.io/nuricanozturk" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://repsy.io/assets/icons/repsy/repsy-logo.svg"
+    height="35"
+    alt="Repsy"
+  />
+</a>
+
 </div>
 
 ---
