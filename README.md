@@ -28,7 +28,7 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
   <a href="https://repsy.io/nuricanozturk" target="_blank" rel="noopener noreferrer">
   <img
     src="https://repsy.io/assets/icons/repsy/repsy-logo.svg"
-    height="25"
+    height="35"
     alt="Repsy"
   />
 </a>
