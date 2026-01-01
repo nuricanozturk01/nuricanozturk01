@@ -28,7 +28,7 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
   <a href="https://repsy.io/nuricanozturk" target="_blank" rel="noopener noreferrer">
   <img
     src="https://repsy.io/assets/icons/repsy/repsy-logo.svg"
-    height="35"
+    height="25"
     alt="Repsy"
   />
 </a>
@@ -43,6 +43,12 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
     - nucleus-framework: https://repsy.io/nuricanozturk/nucleus
     - unit-test-framework: https://repsy.io/nuricanozturk/unit-test-framework
     - bearmq-spring-client: https://repsy.io/nuricanozturk/bearmq-spring-client
+
+## 2025 Github Wrapped
+
+<img src="https://github.com/user-attachments/assets/5b54b621-bb12-4cf2-8a80-605c7dbbc800"
+     alt="2025 Github Wrapped"
+     width="800" />
 
 ## ☕ Support My Work
 
