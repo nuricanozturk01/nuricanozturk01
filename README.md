@@ -37,6 +37,13 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 
 ---
 
+## My Public Packages
+- Repsy: https://repsy.io/nuricanozturk
+  - Maven
+    - nucleus-framework: https://repsy.io/nuricanozturk/nucleus
+    - unit-test-framework: https://repsy.io/nuricanozturk/unit-test-framework
+    - bearmq-spring-client: https://repsy.io/nuricanozturk/bearmq-spring-client
+
 ## ☕ Support My Work
 
 If you find my projects helpful or want to support my open-source contributions:
