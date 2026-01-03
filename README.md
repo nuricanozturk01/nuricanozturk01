@@ -37,6 +37,12 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 
 ---
 
+## My Setup
+
+- Example of my setupshowroom project
+
+<img src="sys.svg"/>
+
 ## My Public Packages
 - Repsy: https://repsy.io/nuricanozturk
   - Maven
