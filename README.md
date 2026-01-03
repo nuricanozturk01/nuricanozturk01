@@ -43,13 +43,7 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 
 <img src="sys.svg"/>
 
-## My Public Packages
-- Repsy: https://repsy.io/nuricanozturk
-  - Maven
-    - nucleus-framework: https://repsy.io/nuricanozturk/nucleus
-    - unit-test-framework: https://repsy.io/nuricanozturk/unit-test-framework
-    - bearmq-spring-lib: https://repsy.io/nuricanozturk/bearmq-spring-client
-    - audittracer-spring-lib: https://repsy.io/nuricanozturk/audittracer-spring-lib
+<img src="dev.svg"/>
 
 ## 2025 Github Wrapped
 
