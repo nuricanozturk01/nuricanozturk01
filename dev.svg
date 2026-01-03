@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#030712;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#111827;stop-opacity:0.8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="580" height="200" rx="8" fill="url(#bgGradient)"/>
+
+  <g>
+    <rect x="0" y="0" width="110" height="200" fill="#030712" rx="4"/>
+
+    <g transform="translate(10, 20)">
+      <g font-family="monospace" font-size="10" fill="#10B981">
+        <text x="0" y="30">
+          <tspan fill="#F43F5E">def</tspan>
+          <tspan fill="#10B981"> main():</tspan>
+          <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+        </text>
+        <text x="2" y="45">
+          <tspan fill="#A5B4FC">while</tspan>
+          <tspan fill="#10B981"> True:</tspan>
+          <animate attributeName="opacity" values="0;0;1;1;0" dur="5s" repeatCount="indefinite"/>
+        </text>
+        <text x="4" y="60">
+          <tspan fill="#10B981">eat()</tspan>
+          <animate attributeName="opacity" values="0;0;0;1;1;0" dur="5s" repeatCount="indefinite"/>
+        </text>
+        <text x="4" y="75">
+          <tspan fill="#10B981">code()</tspan>
+          <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="5s" repeatCount="indefinite"/>
+        </text>
+        <text x="4" y="90">
+          <tspan fill="#10B981">sleep()</tspan>
+          <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" dur="5s" repeatCount="indefinite"/>
+        </text>
+
+        <rect x="0" y="120" width="4" height="12" fill="#10B981">
+          <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(120, 0)">
+    <text x="0" y="20" fill="#10B981" font-family="Arial" font-size="16" font-weight="bold">nuricanozturk's Setup</text>
+
+    <g transform="translate(0, 40)" font-family="'Segoe UI'" font-size="12" fill="#E5E7EB">
+      <g>
+        <text x="0" y="15">💻 CPU:
+          <tspan fill="#E5E7EB">AMD Ryzen7 7700X</tspan>
+        </text>
+        <text x="0" y="40">🎮 GPU:
+          <tspan fill="#E5E7EB">AMD RX 9070XT</tspan>
+        </text>
+        <text x="0" y="65">💾 RAM:
+          <tspan fill="#E5E7EB">32 GB DDR5 6400MHZ</tspan>
+        </text>
+        <text x="0" y="90">💽 Storage:
+          <tspan fill="#E5E7EB">1 TB M2 SSD</tspan>
+        </text>
+      </g>
+
+      <g transform="translate(240,0)">
+        <text x="0" y="15">📟 Motherboard:
+          <tspan fill="#E5E7EB">MSI PRO B650M-B</tspan>
+        </text>
+        <text x="0" y="40">🖥️ Monitor:
+          <tspan fill="#E5E7EB">AOC 2K</tspan>
+        </text>
+      </g>
+    </g>
+
+    <g transform="translate(0, 145)">
+      <rect x="0" y="0" width="36" height="22" rx="6" fill="#111827"
+            stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+      <text font-family="'SF Pro Display', 'Segoe UI', system-ui" font-size="10"
+            font-weight="500" fill="#10B981" x="0" dx="3" dy="15"
+            letter-spacing="0.3px">
+        ROOM
+      </text>
+      <rect x="44" y="0" width="66" height="22" rx="6" fill="#111827"
+            stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+      <text font-family="'SF Pro Display', 'Segoe UI', system-ui" font-size="10"
+            font-weight="500" fill="#10B981" x="44" dx="3" dy="15"
+            letter-spacing="0.3px">
+        WORKSPACE
+      </text>
+      <rect x="118" y="0" width="24" height="22" rx="6" fill="#111827"
+            stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+      <text font-family="'SF Pro Display', 'Segoe UI', system-ui" font-size="10"
+            font-weight="500" fill="#10B981" x="118" dx="3" dy="15"
+            letter-spacing="0.3px">
+        PC
+      </text>
+      <rect x="150" y="0" width="78" height="22" rx="6" fill="#111827"
+            stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+      <text font-family="'SF Pro Display', 'Segoe UI', system-ui" font-size="10"
+            font-weight="500" fill="#10B981" x="150" dx="3" dy="15"
+            letter-spacing="0.3px">
+        DEVELOPMENT
+      </text>
+      <rect x="236" y="0" width="84" height="22" rx="6" fill="#111827"
+            stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+      <text font-family="'SF Pro Display', 'Segoe UI', system-ui" font-size="10"
+            font-weight="500" fill="#10B981" x="236" dx="3" dy="15"
+            letter-spacing="0.3px">
+        PRODUCTIVITY
+      </text>
+      <rect x="328" y="0" width="48" height="22" rx="6" fill="#111827"
+            stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+      <text font-family="'SF Pro Display', 'Segoe UI', system-ui" font-size="10"
+            font-weight="500" fill="#10B981" x="328" dx="3" dy="15"
+            letter-spacing="0.3px">
+        GAMING
+      </text>
+    </g>
+
+    <line x1="0" y1="175" x2="580" y2="175" stroke="#10B981" stroke-width="1"/>
+
+    <text font-family="'Segoe UI'" font-size="10" fill="#10B981" y="190" x="0">
+      <tspan font-weight="bold">setupshowroom-demo</tspan>
+    </text>
+
+    <text font-family="'Segoe UI'" font-size="10" fill="#10B981" y="190" x="75%" text-anchor="end">
+      <tspan font-weight="bold"
+             text-decoration-thickness="2px"
+             text-decoration-color="#10B981"
+             text-decoration-style="solid">Setup Owner:
+        <tspan text-decoration="underline"
+               text-decoration-thickness="2px"
+               text-decoration-color="#10B981"
+               text-decoration-style="solid">
+          nuricanozturk
+        </tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
