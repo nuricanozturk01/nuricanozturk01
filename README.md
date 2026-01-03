@@ -45,12 +45,6 @@ I'm a **Junior Software Developer** with a strong passion for backend technologi
 
 <img src="dev.svg"/>
 
-## 2025 Github Wrapped
-
-<img src="https://github.com/user-attachments/assets/5b54b621-bb12-4cf2-8a80-605c7dbbc800"
-     alt="2025 Github Wrapped"
-     width="800" />
-
 ## ☕ Support My Work
 
 If you find my projects helpful or want to support my open-source contributions:
