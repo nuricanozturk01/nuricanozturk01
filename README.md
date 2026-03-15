@@ -62,13 +62,3 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
   <img src="sys.svg" alt="System Setup" />
   <img src="dev.svg" alt="Dev Environment" />
 </div>
-
----
-
-## ☕ Support My Work
-
-If you find my projects helpful or want to support my open-source contributions:
-
-<a href="https://www.buymeacoffee.com/nuricanozturk" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="200" />
-</a>
