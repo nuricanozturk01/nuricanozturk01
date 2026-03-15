@@ -53,12 +53,3 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
 | **OriginHub** | Self-hosted Git platform (Demo) | <a href="https://originhub.nuricanozturk.com" target="_blank" rel="noopener noreferrer">originhub.nuricanozturk.com</a> |
 | **Deprem Haritası** | Static web tool | <a href="https://sallandik.nuricanozturk.com" target="_blank" rel="noopener noreferrer">sallandik.nuricanozturk.com</a> |
 | **QA Card Creator** | Flashcard study tool | <a href="https://qacards.nuricanozturk.com" target="_blank" rel="noopener noreferrer">qacards.nuricanozturk.com</a> |
-
----
-
-## 🖥️ Setup Showroom
-
-<div align="center">
-  <img src="sys.svg" alt="System Setup" />
-  <img src="dev.svg" alt="Dev Environment" />
-</div>
