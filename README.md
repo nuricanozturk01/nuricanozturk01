@@ -1,54 +1,74 @@
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a **Junior Software Developer** with a strong passion for backend technologies, cloud infrastructure, and modern software architecture. I have solid experience with **Java**, **Spring Boot ecosystem**, and **Go**, and I'm actively building scalable systems and clean APIs while expanding my expertise in production-ready development.
+# Nuri Can Öztürk
 
----
+**Backend Developer · Cloud Infrastructure · Software Architecture**
 
-## 🛠️ Technology Stack
-
-<div align="left">
-  <strong>Languages & Backend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=java,rust,go,kotlin,spring,hibernate,kafka,rabbitmq" height="35" alt="languages backend" />
-  
-  <br/>
-  <strong>Databases & Storage:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" height="35" alt="databases" />
-  
-  <br/>
-  <strong>Frontend & Mobile:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=angular,svelte,androidstudio" height="35" alt="frontend mobile" />
-  
-  <br/>
-  <strong>DevOps & Cloud:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,vercel,linux" height="35" alt="devops cloud" />
-  
-  <br/>
-  <strong>Tools & Monitoring:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,githubactions,idea,vscode,postman,grafana,prometheus" height="35" alt="tools monitoring" />
-  <a href="https://repsy.io/nuricanozturk" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://repsy.io/assets/icons/repsy/repsy-logo.svg"
-    height="35"
-    alt="Repsy"
-  />
-</a>
+[![Website](https://img.shields.io/badge/nuricanozturk.com-000000?style=for-the-badge&logo=globe&logoColor=white)](https://nuricanozturk.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nuricanozturk)
 
 </div>
 
 ---
 
-## My Setup
+## 👨‍💻 About Me
 
-- Example of my setupshowroom project
+I'm a **Software Developer** with a strong passion for backend technologies, cloud infrastructure, and modern software architecture. I have solid experience with **Java**, the **Spring Boot ecosystem**, and **Go**, and I'm actively building scalable systems and clean APIs while expanding my expertise in production-ready development.
 
-<img src="sys.svg"/>
+---
 
-<img src="dev.svg"/>
+## 🛠️ Technology Stack
+
+**Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=java,rust,go,kotlin,spring,hibernate,kafka,rabbitmq" height="35" alt="languages and backend" />
+
+**Databases & Storage**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" height="35" alt="databases" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=angular,svelte,androidstudio" height="35" alt="frontend and mobile" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,vercel,linux" height="35" alt="devops and cloud" />
+
+**Tools & Monitoring**
+
+<div align="left" style="display:flex;align-items:center;gap:6px;">
+  <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,githubactions,idea,vscode,postman,grafana,prometheus" height="35" alt="tools and monitoring" />
+  <a href="https://repsy.io/nuricanozturk" target="_blank" rel="noopener noreferrer">
+    <img src="https://repsy.io/assets/icons/repsy/repsy-logo.svg" height="35" alt="Repsy" />
+  </a>
+</div>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **OriginHub** | Self-hosted Git platform (Demo) | <a href="https://originhub.nuricanozturk.com" target="_blank" rel="noopener noreferrer">originhub.nuricanozturk.com</a> |
+| **Deprem Haritası** | Static web tool | <a href="https://sallandik.nuricanozturk.com" target="_blank" rel="noopener noreferrer">sallandik.nuricanozturk.com</a> |
+| **QA Card Creator** | Flashcard study tool | <a href="https://qacards.nuricanozturk.com" target="_blank" rel="noopener noreferrer">qacards.nuricanozturk.com</a> |
+
+---
+
+## 🖥️ Setup Showroom
+
+<div align="center">
+  <img src="sys.svg" alt="System Setup" />
+  <img src="dev.svg" alt="Dev Environment" />
+</div>
+
+---
 
 ## ☕ Support My Work
 
 If you find my projects helpful or want to support my open-source contributions:
 
-<a href="https://www.buymeacoffee.com/nuricanozturk" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" >
+<a href="https://www.buymeacoffee.com/nuricanozturk" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="200" />
 </a>
