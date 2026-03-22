@@ -46,6 +46,10 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
 
 ---
 
+## My Chrome Extensions in Chrome Web Store
+
+- [Chrome Webstore / nuricanozturk](https://chromewebstore.google.com/search/canozturk309)
+
 ## 🚀 Projects
 
 | Project | Description | Link |
