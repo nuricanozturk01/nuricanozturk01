@@ -56,5 +56,6 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
 |---|---|---|
 | **GitNode** | Self-hosted Git platform | <a href="https://gitnode.dev" target="_blank" rel="noopener noreferrer">gitnode.dev</a>|
 | **BearMQ** | Bear Message Queue | <a href="https://bearmq.com" target="_blank" rel="noopener noreferrer">bearmq.com</a> |
+| **CronBeat** | Never Miss a Beat | <a href="https://cronbeat.dev" target="_blank" rel="noopener noreferrer">cronbeat.dev</a> |
 | **Deprem Haritası** | Static web tool (Claude) | <a href="https://sallandik.nuricanozturk.com" target="_blank" rel="noopener noreferrer">sallandik.nuricanozturk.com</a> |
 | **QA Card Creator** | Flashcard tool (Claude) | <a href="https://qacards.nuricanozturk.com" target="_blank" rel="noopener noreferrer">qacards.nuricanozturk.com</a> |
