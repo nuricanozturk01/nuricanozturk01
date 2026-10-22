@@ -42,7 +42,9 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
   <a href="https://repsy.io/nuricanozturk" target="_blank" rel="noopener noreferrer">
     <img src="https://repsy.io/assets/icons/repsy/repsy-logo.svg" height="35" alt="Repsy" />
   </a>
-  <img src="https://cronbeat.dev/logo.png" height="35" alt="CronBeat" />
+  <a href="https://cronbeat.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://cronbeat.dev/logo.png" height="35" alt="CronBeat" />
+  </a>
 </div>
 
 ---
