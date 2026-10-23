@@ -21,7 +21,12 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
 
 **Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=java,rust,go,kotlin,spring,hibernate,kafka,rabbitmq" height="35" alt="languages and backend" />
+<div align="left" style="display:flex;align-items:center;gap:6px;">
+  <img src="https://skillicons.dev/icons?i=java,rust,go,kotlin,spring,hibernate,kafka,rabbitmq" height="35" alt="languages and backend" />
+  <a href="https://bearmq.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://bearmq.com/logo.png" height="35" alt="BearMQ" />
+  </a>
+</div>
 
 **Databases & Storage**
 
@@ -44,6 +49,9 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
   </a>
   <a href="https://cronbeat.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://cronbeat.dev/logo.png" height="35" alt="CronBeat" />
+  </a>
+    <a href="https://gitnode.dev/nuricanozturk" target="_blank" rel="noopener noreferrer">
+    <img src="https://gitnode.dev/icon.png" height="35" alt="GitNode" />
   </a>
 </div>
 
