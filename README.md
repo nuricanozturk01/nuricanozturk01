@@ -51,7 +51,7 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
     <img src="https://cronbeat.dev/logo.png" height="35" alt="CronBeat" />
   </a>
     <a href="https://gitnode.dev/nuricanozturk" target="_blank" rel="noopener noreferrer">
-    <img src="https://gitnode.dev/icon.png" height="35" alt="GitNode" />
+    <img src="https://gitnode.dev/gitnode-mark.svg" height="35" alt="GitNode" />
   </a>
 </div>
 
