@@ -38,7 +38,7 @@ I'm a **Software Developer** with a strong passion for backend technologies, clo
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,vercel,linux" height="35" alt="devops and cloud" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,linux" height="35" alt="devops and cloud" />
 
 **Tools & Monitoring**
 
