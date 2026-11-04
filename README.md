@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nuri Can Öztürk
+# Nuri Can OZTURK
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Backend+Developer;Building+Developer+Tools;Exploring+Distributed+Systems;Turning+Ideas+into+Products"
